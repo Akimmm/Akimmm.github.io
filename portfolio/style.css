@@ -72,6 +72,7 @@ A:HOVER	{
 	z-index:3 ;
 	border: solid;
 	background-color:#444 ;
+	color:#e3ca76;
 	}
 .menu2	{
 	position:absolute ;	
@@ -84,6 +85,7 @@ A:HOVER	{
 	z-index:3 ;
 	border: solid;
 	background-color:#444;
+	color:#e3ca76;
 	}
 .menu3	{
 	position:absolute ;
@@ -96,6 +98,7 @@ A:HOVER	{
 	z-index:3 ;
 	border: solid;
 	background-color:#444;
+	color:#e3ca76;
 	}
 .menu4	{
 	position:absolute ;
